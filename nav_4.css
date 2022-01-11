@@ -1,0 +1,17 @@
+.container {
+    background-color: red;
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-family: 'Luxurious Roman', cursive;
+    padding: 10px;
+    height: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  
+  .icon {
+    align-content: space-between;
+    height: 30px;
+    width: 30px;
+  }

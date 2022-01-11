@@ -1,0 +1,13 @@
+.container {
+    cursor: grab;
+  background-color: lightblue;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  font-family: 'Luxurious Roman', cursive;
+}
+
+.item {
+  background-color: lightblue;
+  padding: 10px;
+}

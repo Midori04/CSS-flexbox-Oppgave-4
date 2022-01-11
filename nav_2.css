@@ -1,0 +1,20 @@
+.container {
+    cursor: grab;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Luxurious Roman', cursive;
+    padding: 10px;
+    border-bottom: palegreen 3px solid;
+  }
+  
+  .item {
+background-color: white;
+  }
+
+  .item:hover {
+    background-color: palegreen;
+    padding: 10px;
+    border: 1px solid palegreen;
+  }
